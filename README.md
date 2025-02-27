@@ -8,10 +8,6 @@
 ## 課堂練習
 聊天機器人: https://colab.research.google.com/drive/1RoaOZU88DyzQ3XKQP93PVe9nDryPbkLp?usp=sharing
 ## 作業連結
-- 作業1: 
-- 作業2
-- 作業3
-- 作業4
-- 作業5 
+- Week 2: https://colab.research.google.com/drive/18fT0RoWwn-Pe6aqgFZyGN3iAdwVgUyNt?usp=sharing 
 
 ## 專題連結
