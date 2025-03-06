@@ -9,5 +9,5 @@
 聊天機器人: https://colab.research.google.com/drive/1RoaOZU88DyzQ3XKQP93PVe9nDryPbkLp?usp=sharing
 ## 作業連結
 - Week 2: https://colab.research.google.com/drive/18fT0RoWwn-Pe6aqgFZyGN3iAdwVgUyNt?usp=sharing 
-
+- Week 3: https://colab.research.google.com/drive/1SHKo2CZjsvXIqplwO56W47cSXEutBt5Q?usp=sharing
 ## 專題連結
