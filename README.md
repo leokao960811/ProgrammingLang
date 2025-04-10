@@ -21,6 +21,10 @@
 
 這週所做：運用plotly繪長條、折線圖
 
+- Week 7: https://colab.research.google.com/drive/1lVezV72nr_U31FddDYFQTl_fT_62JLnk?usp=sharing
+
+這週所做：文字斷句(Jieba、nltk)，句子分析
+
 ## 作業連結
 - HW 1/Week 4: https://colab.research.google.com/drive/1w5l1xS98GjFkyBqqeR37sSrIjyQIcwOY?usp=sharing
 
