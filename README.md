@@ -25,6 +25,10 @@
 
 這週所做：文字斷句(Jieba、nltk)，句子分析
 
+- Week8: https://colab.research.google.com/drive/1LuJ9qxPzdgkgwosNb8E5GrCY3bQrvJOk?usp=sharing
+
+這週所做：文字實體擷取
+
 ## 作業連結
 - HW 1/Week 4: https://colab.research.google.com/drive/1w5l1xS98GjFkyBqqeR37sSrIjyQIcwOY?usp=sharing
 
@@ -88,5 +92,11 @@
       - 內容中，"發展"、"合作"、"經濟"、"建設"這些字出現率高，我會推測國家發展這部分是重要的關注項目。
       - 也因為這是中國的新聞，像是"中央"、"中國"、"習近平"等跟政府有關的字詞出現率也是很高。
 
-
+- HW 5/Week8: https://colab.research.google.com/drive/1LuJ9qxPzdgkgwosNb8E5GrCY3bQrvJOk?usp=sharing
+  - 本周為斷詞與NER的執行：
+  - 資料為中國新聞連播2016-01-01至2016-01-20的新聞內容，皆有先經過簡轉繁處理。
+  - 選擇這份資料最主要是延續上次的課程，最主要遇到的挑戰就是文字量龐大，需要花大量時間檢查各種關鍵字。
+  - 關鍵字以人名、組織名、以及地名與國家名這三類為主。
+  - 在執行這次任務後，我第一時間想到的是將這份程式碼衍伸為新聞分類的專題，讓使用者篩選特定新聞閱讀或是進行分析。
+  - 這樣的流程也是我在這次作業中最主要學到的內容。
 ## 專題連結
